@@ -4,7 +4,7 @@ Forked to run workshops using the Kata.
 
 ## Instructions
 
-1. Clone this repo
+1. Clone this repo (`git clone git@github.com:wenley/GildedRose-Refactoring-Kata.git`)
 2. Make sure you have the `rspec` gem installed (`gem install rspec`)
 3. Run the specs (`rspec ruby/gilded_rose_spec.rb`)
 4. Read the [instructions](https://github.com/wenley/GildedRose-Refactoring-Kata/blob/master/GildedRoseRequirements.txt)
